@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Information Technology, West Bengal University of Technology, 2012
+* M.S. in Computer Science, the Wright State University, 2019
+* Ph.D in Computer Science, the Wright State University, 2019 (Pursuing)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2016 - Spring 2019: Graduate Researcher
+  * [Kno.e.sis Center](knoesis.org), [Wright State University](wright.edu)
+  * Duties included: Researcher [HazardSEES NSF project (http://wiki.knoesis.org/index.php/Social_and_Physical_Sensing_Enabled_Decision_Support).
+  * Duties included: Researcher [Depression NIH project (http://wiki.knoesis.org/index.php/Modeling_Social_Behavior_for_Healthcare_Utilization_in_Depression).
 
 * Fall 2015: Research Assistant
   * Github University
