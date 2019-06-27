@@ -19,8 +19,8 @@ Work experience
 ======
 * Fall 2016 - Spring 2019: Graduate Researcher
   * [Kno.e.sis Center](knoesis.org), [Wright State University](wright.edu)
-  * Duties included: Researcher [HazardSEES NSF project] (http://wiki.knoesis.org/index.php/Social_and_Physical_Sensing_Enabled_Decision_Support).
-  * Duties included: Researcher [Depression NIH project] (http://wiki.knoesis.org/index.php/Modeling_Social_Behavior_for_Healthcare_Utilization_in_Depression).
+  * Duties included: Researcher [HazardSEES NSF project](http://wiki.knoesis.org/index.php/Social_and_Physical_Sensing_Enabled_Decision_Support).
+  * Duties included: Researcher [Depression NIH project](http://wiki.knoesis.org/index.php/Modeling_Social_Behavior_for_Healthcare_Utilization_in_Depression).
 
 * Fall 2015: Research Assistant
   * Github University
