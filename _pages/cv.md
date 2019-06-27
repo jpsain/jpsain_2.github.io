@@ -22,10 +22,13 @@ Work experience
   * Duties included: Researcher [HazardSEES NSF project](http://wiki.knoesis.org/index.php/Social_and_Physical_Sensing_Enabled_Decision_Support).
   * Duties included: Researcher [Depression NIH project](http://wiki.knoesis.org/index.php/Modeling_Social_Behavior_for_Healthcare_Utilization_in_Depression).
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2016 - Fall 2016: Web Coordinator
+  * [University Center for International Education (UCIE)](https://www.wright.edu/international-education), [Wright State University](wright.edu)
+  * Duties included: Designing, developing and maintaining 'UCIE' and 'Dayton Council on World Affairs' websites in Drupal.
+
+* Jan 2015 - Dec 2015: Senior Software Analyst
+  * [Hexagon Capability Centre India](https://hexagon.com/our-business/research-and-development/hexagon-cci)
+  * Duties included: Designing and implementing new functionalities and automated tests for the product "SmartPlant Master Tag Registry". Provided training on "Data Structure & Algorithms" to the newly hired employees and on "Scrum Process" to the team.
   
 Skills
 ======
