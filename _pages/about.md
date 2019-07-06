@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hussein S. Al-Olimat"
+title: "Joy Prakash Sain"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -14,4 +14,4 @@ Kno.e.sis performs world-class research on translating information to meaning, t
 
 Previously, received MS. in Computer Science and Engineering from [Wright State University](http://www.wright.edu/).
 
-Before joining the master's program at WSU, I received my bachelor's degree in Information Technology from the [West Bengal University of Technology](http://www.wbut.ac.in/, West Bengal, India.
+Before joining the master's program at WSU, I received my bachelor's degree in Information Technology from the [West Bengal University of Technology](http://www.wbut.ac.in/), West Bengal, India.
