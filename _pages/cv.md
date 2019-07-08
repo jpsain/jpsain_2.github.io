@@ -18,8 +18,8 @@ Education
 Work experience
 -----
 * Summer 2019 - now: Teaching Assistant
-  * [Wright State University](wright.edu), Dayton, OH
-  * Course: CS 7920 - Algorithm Design and Analysis
+  * [Wright State University](wright.edu)
+  * Course: CS 7920 - Algorithm Design and Analysis.
   
 * Fall 2016 - Spring 2019: Graduate Researcher
   * [Kno.e.sis Center](knoesis.org), [Wright State University](wright.edu)
