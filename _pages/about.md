@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently pursuing PhD in Computer Science and Engineering at [Wright State University](http://www.wright.edu/) working as part of the research team at The Ohio Center of Excellence in Knowledge-enabled Computing ([Kno.e.sis](knoesis.org)). My dissertation titled "Knowledge-enabled Entity Extraction" is advised by [Dr. Krishnaprasad Thirunarayan](http://knoesis.wright.edu/tkprasad/).
+Currently pursuing PhD in Computer Science and Engineering at [Wright State University](http://www.wright.edu/) working as part of the research team at The Ohio Center of Excellence in Knowledge-enabled Computing ([Kno.e.sis](knoesis.org)).
 
 Kno.e.sis performs world-class research on translating information to meaning, towards the vision of Computing for Human Experience. My research is focused on Natural Language Processing, Information and Knowledge Retrieval and Extraction, Machine Learning, and Deep Learning.
 
