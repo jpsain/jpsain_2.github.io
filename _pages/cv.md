@@ -18,12 +18,12 @@ Education
 Work experience
 -----
 * Summer 2019 - now: Teaching Assistant
-  * [Wright State University](wright.edu)
+  * [Wright State University](https://www.wright.edu)
   * Course: Discrete Structures and Their Algorithms
   * Course: Algorithm Design and Analysis.
   
 * Fall 2016 - Spring 2019: Graduate Researcher
-  * [Kno.e.sis Center](knoesis.org), [Wright State University](wright.edu)
+  * [Kno.e.sis Center](http://www.knoesis.org/), [Wright State University](https://www.wright.edu)
   * Duties included: Researcher [HazardSEES NSF project](http://wiki.knoesis.org/index.php/Social_and_Physical_Sensing_Enabled_Decision_Support).
   * Duties included: Researcher [Depression NIH project](http://wiki.knoesis.org/index.php/Modeling_Social_Behavior_for_Healthcare_Utilization_in_Depression).
 
