@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 -----
-* B.Tech. in Information Technology, West Bengal University of Technology, 2008 - 2012
-* M.S. in Computer Science, the Wright State University, 2016 - 2019
 * Ph.D in Computer Science, the Wright State University, 2018 - Present
+* M.S. in Computer Science, the Wright State University, 2016 - 2019
+* B.Tech. in Information Technology, West Bengal University of Technology, 2008 - 2012
 
 Work experience
 -----
 * Summer 2019 - now: Teaching Assistant
   * [Wright State University](wright.edu)
-  * Course: CS 7920 - Algorithm Design and Analysis.
+  * Course: Discrete Structures and Their Algorithms
+  * Course: Algorithm Design and Analysis.
   
 * Fall 2016 - Spring 2019: Graduate Researcher
   * [Kno.e.sis Center](knoesis.org), [Wright State University](wright.edu)
