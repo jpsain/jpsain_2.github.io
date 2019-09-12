@@ -15,3 +15,9 @@ Kno.e.sis performs world-class research on translating information to meaning, t
 Previously, received MS. in Computer Science and Engineering from [Wright State University](http://www.wright.edu/).
 
 Before joining the master's program at WSU, I received my bachelor's degree in Information Technology from the [West Bengal University of Technology](http://www.wbut.ac.in/), West Bengal, India.
+
+## Updates
+
+* In August 2019, our vision paper was accepted at SIGSPATIAL 2019. To appear.
+* Excited to be a Sub-Reviewer of both ACL and EMNLP this year, 2019.
+* In January 2019, our [assesment of suicide severity paper]({{ site.url }}/publications/Suicide_Severity/) was accepted at The Web Conference (previously, WWW) 2019.
