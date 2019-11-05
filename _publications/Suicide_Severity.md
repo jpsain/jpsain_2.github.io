@@ -14,6 +14,8 @@ Mental health illness such as depression is a significant risk factor for suicid
 
 [BibTex](https://dl.acm.org/downformats.cfm?id=3313698&parent_id=3308558&expformat=bibtex)
 
+[Code](https://github.com/jpsain/Suicide-Severity)
+
 # Poster
 
 <iframe src="https://drive.google.com/file/d/1vea_R09nvY2hRAE_PSy0Ez-8EUY8n7pa/preview" width="100%" height="480"></iframe>
