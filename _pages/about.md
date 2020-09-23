@@ -15,7 +15,7 @@ My research is focused on Natural Language Processing, Information and Knowledge
 ## Updates
 * In September 2020, I presented on "Assessing Patients’ Health States based on Social Media Posts, and Named Entity Recognition from Unstructured Text" at the [International Conclave on Recent Advances in Computer Science (ICRACS 2020)](http://anuragcdtc.com/icracs2020/). [Talk Website](https://jpsain.github.io/talks/2020-9-21-ICRACS)
 * Our work was featurized by [The Computing Community Consortium - CCC](https://cra.org/ccc/) as an innovative idea-- [link](https://cra.org/ccc/towards-geocoding-spatial-expressions/)
-* Our paper ["Towards Geocoding Spatial Expressions"]({{ site.url }}/publications/GeocodingVision/) won a Blue Sky Idea prize by the [The Computing Community Consortium - CCC](https://cra.org/ccc/).
+* Our paper ["Towards Geocoding Spatial Expressions"]({{ site.url }}/publications/Geocoding_Vision/) won a Blue Sky Idea prize by the [The Computing Community Consortium - CCC](https://cra.org/ccc/).
 * In August 2019, our vision paper ["Towards Geocoding Spatial Expressions"]({{ site.url }}/publications/Geocoding_Vision/) was accepted at SIGSPATIAL 2019.
 * Excited to be a Sub-Reviewer of both ACL and EMNLP this year, 2019.
 * In January 2019, our [assesment of suicide severity paper]({{ site.url }}/publications/Suicide_Severity/) was accepted at The Web Conference (previously, WWW) 2019.
