@@ -18,7 +18,7 @@ Education
 Work experience
 -----
 * Jan 2020 - Now: Graduate Researcher
-  * Bioinformatics Research Group, Wright State University
+  * Bioinformatics Research Group, [Wright State University](https://www.wright.edu)
   * Duties included: Researcher [U.S. Air Force Academic Partnership and Engagement Experiment (APEX)-Analytics project](https://webapp2.wright.edu/web1/newsroom/2019/09/10/wright-state-applied-research-corporation-chosen-to-lead-apex-a-49m-u-s-air-force-science-and-technology-initiative/) 
 
 * May 2019 - Dec 2019: Teaching Assistant
