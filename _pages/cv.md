@@ -17,17 +17,21 @@ Education
 
 Work experience
 -----
-* Summer 2019 - now: Teaching Assistant
+* Jan 2020 - Now: Graduate Researcher
+  * Bioinformatics Research Group, Wright State University
+  * Duties included: Researcher [U.S. Air Force Academic Partnership and Engagement Experiment (APEX)-Analytics project](https://webapp2.wright.edu/web1/newsroom/2019/09/10/wright-state-applied-research-corporation-chosen-to-lead-apex-a-49m-u-s-air-force-science-and-technology-initiative/) 
+
+* May 2019 - Dec 2019: Teaching Assistant
   * [Wright State University](https://www.wright.edu)
   * Course: Discrete Structures and Their Algorithms
   * Course: Algorithm Design and Analysis.
   
-* Fall 2016 - Spring 2019: Graduate Researcher
+* Nov 2016 - Apr 2019: Graduate Researcher
   * [Kno.e.sis Center](http://www.knoesis.org/), [Wright State University](https://www.wright.edu)
   * Duties included: Researcher [HazardSEES NSF project](http://wiki.knoesis.org/index.php/Social_and_Physical_Sensing_Enabled_Decision_Support).
   * Duties included: Researcher [Depression NIH project](http://wiki.knoesis.org/index.php/Modeling_Social_Behavior_for_Healthcare_Utilization_in_Depression).
 
-* Spring 2016 - Fall 2016: Web Coordinator
+* Feb 2016 - Oct 2016: Web Coordinator
   * [University Center for International Education (UCIE)](https://www.wright.edu/international-education), [Wright State University](wright.edu)
   * Duties included: Designing, developing and maintaining 'UCIE' and 'Dayton Council on World Affairs' websites in Drupal.
 
@@ -54,11 +58,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Talks
+Talks
 -----
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 <!-- Teaching
 -----
