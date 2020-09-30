@@ -13,6 +13,7 @@ My research is focused on Natural Language Processing, Information and Knowledge
 
 
 ## Updates
+* In September 2020, our research paper "Identifying Depressive Symptoms from Tweets: Figurative Language Enabled Multitask Learning Framework" was accepted at COLING 2020 (To appear).
 * In September 2020, I presented on "Assessing Patients’ Health States based on Social Media Posts, and Named Entity Recognition from Unstructured Text" at the [International Conclave on Recent Advances in Computer Science (ICRACS 2020)](http://anuragcdtc.com/icracs2020/). [Talk Website](https://jpsain.github.io/talks/2020-9-21-ICRACS)
 * In June 2020, our research paper ["Assessing the Severity of Health States based on Social Media Posts"]({{ site.url }}/publications/HealthState_Severity/) was accepted at [International Conference on Pattern Recognition (ICPR) 2020](https://www.micc.unifi.it/icpr2020/). (To apear)
 * Our work was featurized by [The Computing Community Consortium - CCC](https://cra.org/ccc/) as an innovative idea-- [link](https://cra.org/ccc/towards-geocoding-spatial-expressions/)
