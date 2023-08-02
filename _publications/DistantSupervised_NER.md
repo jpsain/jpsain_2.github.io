@@ -1,9 +1,9 @@
 ---
-title: "Named Entity Recognition with Partial and Noisy Annotation"
+title: "Reliable Named Entity Recognition using Incomplete Domain-Specific Dictionaries"
 collection: publications
 excerpt: 
-date: 2019-09-12
+date: 2023-07-31
 venue: '[In Preparation]'
 paperurl: ''
-citation: 'Joy Prakash Sain, Hussein S. Al-Olimat, Krishnaprasad Thirunarayan, Valerie Shalin, Michael L. Raymer. Named Entity Recognition with Partial and Noisy Annotation'
+citation: 'Joy Prakash Sain, Krishnaprasad Thirunarayan, Michael L. Raymer. Reliable Named Entity Recognition using Incomplete Domain-Specific Dictionaries'
 ---
