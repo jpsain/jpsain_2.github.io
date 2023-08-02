@@ -17,16 +17,20 @@ Education
 
 Work experience
 -----
-* Jan 2020 - Now: Graduate Researcher
+* Aug 2021 - Dec 2021: Associate in AI Research
+  * JPMorgan Chase & Co.
+  * Duties included: Worked on the research problem: Relation Extraction over Financial Documents
+  * 
+* Jan 2020 - Apr 2021: Graduate Research Assistant
   * Bioinformatics Research Group, [Wright State University](https://www.wright.edu)
   * Duties included: Researcher [U.S. Air Force Academic Partnership and Engagement Experiment (APEX)-Analytics project](https://webapp2.wright.edu/web1/newsroom/2019/09/10/wright-state-applied-research-corporation-chosen-to-lead-apex-a-49m-u-s-air-force-science-and-technology-initiative/) 
 
-* May 2019 - Dec 2019: Teaching Assistant
+* June 2019 - Dec 2019: Graduate Teaching Assistant
   * [Wright State University](https://www.wright.edu)
   * Course: Discrete Structures and Their Algorithms
   * Course: Algorithm Design and Analysis.
   
-* Nov 2016 - Apr 2019: Graduate Researcher
+* Jan 2017 - Apr 2019: Graduate Research Assistant
   * [Kno.e.sis Center](http://www.knoesis.org/), [Wright State University](https://www.wright.edu)
   * Duties included: Researcher [HazardSEES NSF project](http://wiki.knoesis.org/index.php/Social_and_Physical_Sensing_Enabled_Decision_Support).
   * Duties included: Researcher [Depression NIH project](http://wiki.knoesis.org/index.php/Modeling_Social_Behavior_for_Healthcare_Utilization_in_Depression).
