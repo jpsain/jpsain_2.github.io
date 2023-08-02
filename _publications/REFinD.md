@@ -1,0 +1,11 @@
+---
+title: "REFinD: Relation Extraction Financial Dataset"
+collection: publications
+excerpt: A number of datasets for Relation Extraction (RE) have been created to aide downstream tasks such as information retrieval, semantic search, question answering and textual entailment. However, these datasets fail to capture financial-domain specific challenges since most of these datasets are compiled using general knowledge sources, hindering real-life progress and adoption within the financial world. To address this limitation, we propose REFinD, the first large-scale annotated dataset of relations, with ∼29K instances and 22 relations amongst 8 types of entity pairs, generated entirely over financial documents. We also provide an empirical evaluation with various state-of-the-art models as benchmarks for the RE task and highlight the challenges posed by our dataset. We observed that various state-of-the-art deep learning models struggle with numeric inference, relational and directional ambiguity.
+date: 2023-07-23
+venue: 'ACM Special Interest Group on Information Retrieval (SIGIR)'
+paperurl: ''
+citation: 'Kaur, S., Smiley, C., Gupta, A., Sain, J. P., Wang, D., Siddagangappa, S., Aguda, T.D., Shah, S. “REFinD: Relation Extraction Financial Dataset." In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2023.'
+---
+
+A number of datasets for Relation Extraction (RE) have been created to aide downstream tasks such as information retrieval, semantic search, question answering and textual entailment. However, these datasets fail to capture financial-domain specific challenges since most of these datasets are compiled using general knowledge sources, hindering real-life progress and adoption within the financial world. To address this limitation, we propose REFinD, the first large-scale annotated dataset of relations, with ∼29K instances and 22 relations amongst 8 types of entity pairs, generated entirely over financial documents. We also provide an empirical evaluation with various state-of-the-art models as benchmarks for the RE task and highlight the challenges posed by our dataset. We observed that various state-of-the-art deep learning models struggle with numeric inference, relational and directional ambiguity.
