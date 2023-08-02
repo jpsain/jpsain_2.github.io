@@ -17,11 +17,11 @@ Education
 
 Work experience
 -----
-* Jan 2022 - Apr 2022: Graduate Teaching Assistant
+* May 2023 - July 2023: Graduate Teaching Assistant
   * [Wright State University](https://www.wright.edu)
   * Course: CS 7120 Functional and Logic Programming
     
-* Sept 2022 - Apr 2022: Graduate Research Assistant
+* Sept 2022 - Apr 2023: Graduate Research Assistant
   * Bioinformatics Research Group, [Wright State University](https://www.wright.edu)
   * Duties included: Researcher [Automated analysis of Supplier Capabilities for Ensuring National Dominance (ASCEND) project](https://www.sbir.gov/sbirsearch/detail/2322273) 
 
