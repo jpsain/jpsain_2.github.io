@@ -17,10 +17,26 @@ Education
 
 Work experience
 -----
+* Jan 2022 - Apr 2022: Graduate Teaching Assistant
+  * [Wright State University](https://www.wright.edu)
+  * Course: CS 7120 Functional and Logic Programming
+    
+* Sept 2022 - Apr 2022: Graduate Research Assistant
+  * Bioinformatics Research Group, [Wright State University](https://www.wright.edu)
+  * Duties included: Researcher [Automated analysis of Supplier Capabilities for Ensuring National Dominance (ASCEND) project](https://www.sbir.gov/sbirsearch/detail/2322273) 
+
+* Jun 2022 - Aug 2022: Associate in AI Research
+  * JPMorgan Chase & Co.
+  * Duties included: Worked on the research problem: Named Entity Recognition over Financial Documents
+    
+* Jan 2022 - Apr 2022: Graduate Teaching Assistant
+  * [Wright State University](https://www.wright.edu)
+  * Course: Data Structures and Algorithms
+    
 * Aug 2021 - Dec 2021: Associate in AI Research
   * JPMorgan Chase & Co.
   * Duties included: Worked on the research problem: Relation Extraction over Financial Documents
-  * 
+    
 * Jan 2020 - Apr 2021: Graduate Research Assistant
   * Bioinformatics Research Group, [Wright State University](https://www.wright.edu)
   * Duties included: Researcher [U.S. Air Force Academic Partnership and Engagement Experiment (APEX)-Analytics project](https://webapp2.wright.edu/web1/newsroom/2019/09/10/wright-state-applied-research-corporation-chosen-to-lead-apex-a-49m-u-s-air-force-science-and-technology-initiative/) 
